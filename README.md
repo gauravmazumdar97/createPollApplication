@@ -19,7 +19,6 @@ This project demonstrates a real-time voting application using a bar chart to di
 ### 📋 Prerequisites
 
 - Node.js
-- npm or yarn
 
 ### 📦 Installation
 
