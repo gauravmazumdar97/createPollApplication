@@ -14,6 +14,17 @@ This project demonstrates a real-time voting application using a bar chart to di
 - **Frontend:** React, Material-UI
 - **Backend:** Node.js, Express, Socket.IO
 
+## 📹 Screenshot
+
+![Screenshot CreateReact Application](https://github.com/gauravmazumdar97/createPollApplication/assets/83352265/8531ac0b-ef4d-4fe3-ab93-3d239257b265)
+
+
+## 📹 Video Tutorial
+
+https://github.com/gauravmazumdar97/createPollApplication/assets/83352265/d5ca1d16-3bb1-4b6d-a3ee-b4003428653e
+
+
+
 ## 🚀 Getting Started
 
 ### 📋 Prerequisites
